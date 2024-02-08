@@ -16,4 +16,6 @@ DATABASE_PASSWORD =
 DIALECT = mysql
 
  
-To run the application run npm start. More yet to comefjfj
+
+To run the application run npm start.
+
